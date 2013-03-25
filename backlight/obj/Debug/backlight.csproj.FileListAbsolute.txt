@@ -1,0 +1,5 @@
+C:\Users\niklasm\Documents\GitHub\backlight\backlight\bin\backlight.dll
+C:\Users\niklasm\Documents\GitHub\backlight\backlight\bin\backlight.pdb
+C:\Users\niklasm\Documents\GitHub\backlight\backlight\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\niklasm\Documents\GitHub\backlight\backlight\obj\Debug\backlight.dll
+C:\Users\niklasm\Documents\GitHub\backlight\backlight\obj\Debug\backlight.pdb
