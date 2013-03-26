@@ -1,0 +1,48 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/f:testpage.htm" caret="1701" fromTop="19" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/d:Scripts/f:backlight.js" caret="719" fromTop="34" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/f:testpage.htm" caret="1803" fromTop="22" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/f:testpage.htm" caret="358" fromTop="11" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/f:testpage.htm" caret="358" fromTop="6" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/f:testpage.htm" caret="362" fromTop="15" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/f:testpage.htm" caret="572" fromTop="31" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/f:testpage.htm" caret="1555" fromTop="35" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/f:testpage.htm" caret="532" fromTop="13" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/f:testpage.htm" caret="530" fromTop="8" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/f:testpage.htm" caret="390" fromTop="9" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/f:testpage.htm" caret="828" fromTop="24" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/f:testpage.htm" caret="564" fromTop="8" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/f:testpage.htm" caret="1703" fromTop="28" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/f:testpage.htm" caret="1603" fromTop="25" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/d:Scripts/f:backlight.js" caret="41" fromTop="2" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/f:testpage.htm" caret="894" fromTop="27" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/d:Scripts/f:backlight.js" caret="282" fromTop="8" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/d:Scripts/f:backlight.js" caret="558" fromTop="16" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/d:Scripts/f:backlight.js" caret="623" fromTop="25" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/d:Scripts/f:backlight.js" caret="209" fromTop="10" />
+      <File id="1B9EFE8E-1DE8-49C9-A19A-B32542A90A79/d:Scripts/f:backlight.js" caret="719" fromTop="34" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
